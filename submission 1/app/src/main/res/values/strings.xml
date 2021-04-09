@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">ListUser</string>
+    <string name="name">Name :  </string>
+    <string name="user_name">Username : </string>
+    <string name="photo">Photo</string>
+    <string name="followers">Followers : </string>
+    <string name="following">Following : </string>
+    <string name="company">Company : </string>
+    <string name="location">Location : </string>
+    <string name="repository">Repository :  </string>
+
+    <string-array name="data_name">
+        <item>Zeke Yeager</item>
+        <item>Frieda Reiss</item>
+        <item>Porco Galliard</item>
+        <item>Eren Yeager</item>
+        <item>Reiner Braun</item>
+        <item>Pieck Finger</item>
+        <item>Ymir</item>
+        <item>Berholdt Hoover</item>
+        <item>Annie leonhart</item>
+        <item>Armin Arlert</item>
+    </string-array>
+
+    <string-array name="data_username">
+        <item>Monkeee</item>
+        <item>FoundingTitan</item>
+        <item>JawTitan</item>
+        <item>EmoYeager</item>
+        <item>whyarewestillhere</item>
+        <item>Cartitan</item>
+        <item>FakeYmir</item>
+        <item>Berutoruto</item>
+        <item>FemaleTitan</item>
+        <item>Colossal2</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/jik</item>
+        <item>@drawable/reiss</item>
+        <item>@drawable/poco</item>
+        <item>@drawable/ereh</item>
+        <item>@drawable/ner</item>
+        <item>@drawable/pieck</item>
+        <item>@drawable/ymir</item>
+        <item>@drawable/bertholdt</item>
+        <item>@drawable/annie</item>
+        <item>@drawable/armin</item>
+    </array>
+
+    <string-array name="data_followers">
+        <item>25000</item>
+        <item>5000</item>
+        <item>13000</item>
+        <item>50000</item>
+        <item>15000</item>
+        <item>17000</item>
+        <item>1000</item>
+        <item>6000</item>
+        <item>5000</item>
+        <item>7000</item>
+    </string-array>
+
+    <string-array name="data_following">
+        <item>2000</item>
+        <item>500</item>
+        <item>700</item>
+        <item>1000</item>
+        <item>900</item>
+        <item>400</item>
+        <item>200</item>
+        <item>300</item>
+        <item>100</item>
+        <item>600</item>
+    </string-array>
+
+    <string-array name="data_company">
+        <item>Marley</item>
+        <item>Paradis</item>
+        <item>Marley</item>
+        <item>Paradis</item>
+        <item>Marley</item>
+        <item>Marley</item>
+        <item>Paradis</item>
+        <item>Marley</item>
+        <item>Marley</item>
+        <item>Paradis</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Liberio</item>
+        <item>Wall Sheena</item>
+        <item>Liberio</item>
+        <item>Wall Rose</item>
+        <item>Liberio</item>
+        <item>Liberio</item>
+        <item>Wall Sheena</item>
+        <item>Liberio</item>
+        <item>Liberio</item>
+        <item>Wall Rose</item>
+    </string-array>
+
+    <string-array name="data_repository">
+        <item>55</item>
+        <item>10</item>
+        <item>7</item>
+        <item>17</item>
+        <item>21</item>
+        <item>13</item>
+        <item>5</item>
+        <item>15</item>
+        <item>11</item>
+        <item>24</item>
+    </string-array>
+</resources>
+
+<!--
+Sources:
+    pieck https://buydesing.vercel.app/posts/attack-on-titan-icon-manga/
+    zeke https://www.tumgir.com/tag/Shingeki%20no%20Kyojin%20Icon
+    poco https://www.pinterest.com/pin/526428643949209971/
+    reiner https://id.pinterest.com/pin/687150855642362680/
+    armin https://www.tumgir.com/ximeops
+    eren https://www.tumbral.com/tag/shasha%20snk
+    annie https://id.pinterest.com/pin/595249275746305027/
+    beru https://id.pinterest.com/pin/307370743323888619/
+    frieda reiss https://attackontitan.fandom.com/wiki/Frieda_Reiss_(Anime)
+    ymir https://id.pinterest.com/pin/21884748177696337/
+-->
